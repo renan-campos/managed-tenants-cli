@@ -281,6 +281,9 @@ properties:
         validation:
           type: string
           format: printable
+        validation_error_message:
+          type: string
+          format: printable
         required:
           type: boolean
         editable:

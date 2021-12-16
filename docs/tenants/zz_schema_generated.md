@@ -150,6 +150,8 @@
 
     - **`validation`** *(string)*
 
+    - **`validation_error_message`** *(string)*
+
     - **`required`** *(boolean)*
 
     - **`editable`** *(boolean)*
